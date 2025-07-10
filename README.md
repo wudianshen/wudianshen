@@ -1,6 +1,9 @@
-## Hi there 👋
+# 是珅（shēn）啊。
 
-**TienKunWoo/TienKunWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+大家好，我是 **wú diàn shēn**，不是 **wú diàn kūn**。
+
+<--
+**wú diàn shēn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
